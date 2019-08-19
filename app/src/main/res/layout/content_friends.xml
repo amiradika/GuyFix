@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.adika.fuckingnetflix.friends"
+    android:layoutDirection="ltr"
+    android:background="@drawable/netflixbackground"
+    android:orientation="vertical"
+    tools:showIn="@layout/activity_friends">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GuyFix"
+        android:layout_marginTop="40dp"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#FF0000"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Friends"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#FF0000"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="https://bit.ly/2j78OFx"
+        android:autoLink="all"
+        android:clickable="true"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#FFEB3B"
+        />
+
+</LinearLayout>

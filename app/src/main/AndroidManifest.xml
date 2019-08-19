@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.adika.fuckingnetflix">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/guyfixresize"
+        android:label="GuyFix"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.adika.fuckingnetflix.Thesopranos"
+            android:label="@string/title_activity_thesopranos"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name="com.adika.fuckingnetflix.BreakingBad"
+            android:label="@string/title_activity_breaking_bad"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.BlackList"
+            android:label="@string/title_activity_black_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.Hawaiifiveo"
+            android:label="@string/title_activity_hawaiifiveo"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.The100"
+            android:label="@string/title_activity_the100"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.Vikings"
+            android:label="@string/title_activity_vikings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.SexAndTheCity"
+            android:label="@string/title_activity_sex_and_the_city"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.Naruto"
+            android:label="@string/title_activity_naruto"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.OnePunchMan"
+            android:label="@string/title_activity_one_punch_man"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.HunterXHunter"
+            android:label="@string/title_activity_hunter_xhunter"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.onepiece"
+            android:label="@string/title_activity_onepiece"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.bigbangtheory"
+            android:label="@string/title_activity_bigbangtheory"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.southpark"
+            android:label="@string/title_activity_southpark"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.suits"
+            android:label="@string/title_activity_suits"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.howimetyourmother"
+            android:label="@string/title_activity_howimetyourmother"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.Game"
+            android:label="@string/title_activity_game"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.friends"
+            android:label="@string/title_activity_friends"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.Action"
+            android:label="@string/title_activity_action"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.Comedy"
+            android:label="@string/title_activity_comedy"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.Drama"
+            android:label="@string/title_activity_drama"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.Romantic"
+            android:label="@string/title_activity_romantic"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.Anime"
+            android:label="@string/title_activity_anime"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.ForgetAndChangePasswordActivity"
+            android:label="@string/title_activity_forget_and_change_password"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.adika.fuckingnetflix.MainActivity"
+            android:label="GuyFix"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

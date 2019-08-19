@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695112209028",
+    "firebase_url": "https://fuckingnetflix.firebaseio.com",
+    "project_id": "fuckingnetflix",
+    "storage_bucket": "fuckingnetflix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695112209028:android:6d47c5d637934011",
+        "android_client_info": {
+          "package_name": "com.adika.fuckingnetflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695112209028-qrsekm5j1if7o3oibtov1qjkafdv0a7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adika.fuckingnetflix",
+            "certificate_hash": "7d7ff527e4ac1da4b9dbfdef379c6e59f88ca56b"
+          }
+        },
+        {
+          "client_id": "695112209028-pegnifjn5kt6s8p8bqip3nugtj969qnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrcsDQL6svFMvAI9T8Sv0vu41w3HhBJxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695112209028-pegnifjn5kt6s8p8bqip3nugtj969qnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
